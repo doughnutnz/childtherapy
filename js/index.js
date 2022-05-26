@@ -104,7 +104,7 @@ var $sitehead = $("#site-head");
               i.removeClass("active");
               a.fadeIn("slow");
             }
-        }
+          }
         });
       });
     }
